@@ -1,5 +1,43 @@
-# 💫 About Me:
-Hi! I’m **Kishan Singh** — a software engineer and MERN developer who loves turning ideas into polished, production‑ready web experiences. I build fast, scalable apps with JavaScript, Python, MySQL, and modern frontend frameworks, focusing on clean UI, smooth UX, and reliable performance.<br><br>🔭 I’m currently working on<br>- An AI-powered code review SaaS (React, Node.js, MongoDB)<br>- Real-time tracking & analytics dashboards for developer workflows<br><br>👯 I’m looking to collaborate on<br>- Open-source full-stack projects (React + Node/Express)<br>- Developer tools: linters, analyzers, productivity and DX tooling<br><br>🤝 I’m looking for help with<br>- Scaling Node.js APIs (caching, queues, microservices)<br>- Improving DX for my AI Code Reviewer platform<br><br>🌱 I’m currently learning<br>- Advanced system design & backend architecture<br>- DevOps fundamentals (Docker, CI/CD, cloud deployment)<br><br>💬 Ask me about<br>- React, TypeScript, Node.js, Express, MongoDB<br>- REST API design, JWT authentication, and clean project structure<br><br>⚡ Fun fact<br>- I enjoy turning small side projects into real products that other developers actually use.<br>
+# 💫 About Me
+
+👋 Hey there! I’m **Kishan Singh** — a **Software Engineer** and **MERN Stack Developer** who loves turning ideas into polished, production‑ready web experiences.  
+I build **fast, scalable apps** with **JavaScript, Python, MySQL**, and modern frontend frameworks, focusing on **clean UI**, **smooth UX**, and **reliable performance**.
+
+---
+
+### 🚀 What I’m Working On
+- 🤖 An **AI-powered Code Review SaaS** (React, Node.js, MongoDB)
+- 📊 **Real-time tracking & analytics dashboards** for developer workflows
+
+---
+
+### 🤝 Open to Collaborations On
+- 🌐 **Open-source full‑stack projects** (React + Node/Express)
+- 🛠️ **Developer tools** – linters, analyzers, productivity & DX tooling
+
+---
+
+### 🧩 Where I’d Love Help
+- ⚙️ **Scaling Node.js APIs** (caching, queues, microservices)
+- 🧪 Improving **DX** for my AI Code Reviewer platform
+
+---
+
+### 📚 Currently Learning
+- 🏗️ **Advanced system design** & backend architecture
+- ☁️ **DevOps fundamentals** – Docker, CI/CD, cloud deployment
+
+---
+
+### 💬 Ask Me About
+- ⚛️ **React**, 🟦 **TypeScript**, 🟩 **Node.js**, 🚂 **Express**, 🍃 **MongoDB**
+- 🌐 **REST API design**, 🔐 **JWT authentication**, and 🧱 **clean project structure**
+
+---
+
+### ⚡ Fun Fact
+- 💡 I love turning **small side projects** into **real products** that other developers actually use.
+
 
 
 ## 🌐 Socials:
