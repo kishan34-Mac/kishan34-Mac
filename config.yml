@@ -1,0 +1,163 @@
+# ==============================================================================
+# Profile Configuration
+# ==============================================================================
+
+github_username: "kishan34-Mac"
+
+display_name: "Kishan Singh"
+
+headline: "Building Real-World Products with Code & AI"
+
+tagline: "Full-Stack Developer • React Native Developer • Problem Solver"
+
+typing_lines:
+  - "Full-Stack Developer | BCA"
+  - "React Native & Mobile App Developer"
+  - "Next.js & TypeScript Developer"
+  - "Building Production-Ready Applications"
+  - "Exploring AI, Automation & Data Intelligence"
+
+bio: |
+  I'm a **Full-Stack Developer** focused on building practical, scalable, and user-friendly applications. I enjoy taking an idea from concept to a working product and continuously improving it through real-world development.
+
+  * 📱 **Mobile Development:** Building cross-platform applications with **React Native**, Expo, and modern mobile development practices.
+
+  * 🌐 **Web Development:** Working with **Next.js, React, TypeScript, Vite, Tailwind CSS**, and modern frontend architectures.
+
+  * ⚙️ **Backend & APIs:** Building application logic, REST APIs, authentication systems, databases, and integrations.
+
+  * 🤖 **AI & Data:** Exploring **Artificial Intelligence, data analytics, automation, and intelligent application development**.
+
+  * 💼 **Experience:** Hands-on development experience through internships, projects, and real-world application development.
+
+  * 🏗️ **Projects:** Building products including mobile applications, CRM systems, analytics platforms, and full-stack applications.
+
+  * 🧩 **Problem Solving:** Actively improving my **DSA, Java, algorithms, and software engineering fundamentals**.
+
+  * 🚀 **Goal:** Turn ideas into reliable products while continuously improving my engineering skills.
+
+links:
+  github: "https://github.com/kishan34-Mac"
+  linkedin: "https://www.linkedin.com/in/kishan-singh-a28364215/"
+  x: ""
+  email: "kiishansingh3@gmail.com"
+  portfolio: "https://kishan-singh-five.vercel.app/"
+
+skills:
+  - name: "React Native"
+    level: 88
+    category: "Mobile"
+
+  - name: "React / Next.js"
+    level: 86
+    category: "Web"
+
+  - name: "TypeScript / JavaScript"
+    level: 84
+    category: "Web"
+
+  - name: "Java"
+    level: 78
+    category: "Programming & DSA"
+
+  - name: "Node.js / REST APIs"
+    level: 76
+    category: "Backend"
+
+  - name: "Python"
+    level: 72
+    category: "AI / Automation"
+
+  - name: "SQL / Databases"
+    level: 72
+    category: "Backend"
+
+  - name: "Git & GitHub"
+    level: 85
+    category: "Tools"
+
+tech_stack:
+  - category: "Mobile Development"
+    icons: "react,reactnative,expo,android"
+
+  - category: "Frontend & Web"
+    icons: "nextjs,react,typescript,javascript,vite,tailwind,html,css"
+
+  - category: "Backend & Database"
+    icons: "nodejs,express,postgresql,mongodb,mysql"
+
+  - category: "Programming & AI"
+    icons: "java,python"
+
+  - category: "Tools & Platforms"
+    icons: "git,github,vscode,vercel,postman"
+
+human_side:
+  - title: "💻 Current Focus"
+    desc: "Building full-stack and cross-platform applications while strengthening my software engineering fundamentals."
+
+  - title: "🧠 Problem Solver"
+    desc: "I regularly practice DSA and algorithms to improve my problem-solving and coding skills."
+
+  - title: "🚀 Builder"
+    desc: "I enjoy turning ideas into working products and learning by building real-world applications."
+
+  - title: "🤖 AI Explorer"
+    desc: "Exploring AI, automation, analytics, and intelligent systems that can solve practical problems."
+
+bento:
+  production_focus:
+    - title: "📱 Mobile Applications"
+      desc: "React Native applications with modern UI, APIs, authentication, and production-ready Android builds"
+
+    - title: "🌐 Full-Stack Development"
+      desc: "Next.js, React, TypeScript, backend APIs, databases, and modern web applications"
+
+    - title: "📊 Business & Analytics"
+      desc: "CRM systems, dashboards, business intelligence, and data-driven application experiences"
+
+    - title: "🤖 AI & Intelligent Systems"
+      desc: "Exploring AI-powered applications, automation, analytics, and intelligent decision systems"
+
+  featured_projects:
+    - badge: "🎬 CineScope"
+      desc: "React Native movie discovery application built for a modern mobile experience"
+
+    - badge: "💼 CRM Platform"
+      desc: "Full-stack CRM application focused on managing customers, workflows, and business operations"
+
+    - badge: "📊 Business Analytics Platform"
+      desc: "Analytics and decision-intelligence platform for KPIs, trends, and actionable business insights"
+
+    - badge: "🧩 DSA & Problem Solving"
+      desc: "Consistent practice with Java, algorithms, data structures, and coding challenges"
+
+  milestones:
+    - badge: "💻 Full-Stack Development"
+      desc: "Built projects across frontend, backend, databases, and APIs"
+
+    - badge: "📱 React Native Development"
+      desc: "Built and generated production-ready Android application builds"
+
+    - badge: "🚀 Real-World Projects"
+      desc: "Hands-on experience developing applications beyond tutorial-level projects"
+
+    - badge: "🏆 Hackathon Experience"
+      desc: "Participated in competitive software development and problem-solving environments"
+
+footer_text: "Let's build something meaningful together."
+
+portrait:
+  source_image: "assets/source-photo.jpg"
+
+  grid_spacing_px: 8
+
+  canvas_size_px: 1000
+
+  color_palette: "original"
+
+  duotone_light: "#ffffff"
+
+  duotone_dark: "#161b22"
+
+  reveal_style: "rows"
