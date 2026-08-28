@@ -114,12 +114,13 @@ def generate_crystal_portrait(config):
             y_max, x_max = non_zero.max(axis=0)
             sub_w = x_max - x_min
             sub_h = y_max - y_min
-            head_size = int(sub_w * 1.15)
             cx = (x_min + x_max) // 2
-            cy = y_min + int(sub_h * 0.40)
+            
+            # Focus properly on face, head and upper shoulders
+            head_size = min(w, int(sub_w * 1.25))
             x1 = max(0, min(cx - head_size // 2, w - head_size))
-            y1 = max(0, min(cy - head_size // 2, h - head_size))
-            crop_box = (x1, y1, min(w, x1 + head_size), min(h, y1 + head_size))
+            y1 = max(0, min(y_min - int(head_size * 0.06), h - head_size))
+            crop_box = (int(x1), int(y1), int(x1 + head_size), int(y1 + head_size))
             cropped = bg_removed.crop(crop_box)
         else:
             crop_w = int(w * 0.80)
