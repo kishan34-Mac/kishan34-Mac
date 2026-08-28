@@ -98,6 +98,24 @@ I'm a **Full-Stack Developer** focused on building practical, scalable, and user
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=kishan34-Mac&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="Kishan Singh GitHub Trophies" width="100%" />
+</div>
+
+---
+
+### 📊 GitHub Stats & Metrics
+
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=kishan34-Mac&show_icons=true&theme=github_dark&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" alt="Kishan Singh GitHub Stats" height="175" />
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kishan34-Mac&theme=github_dark&hide_border=false&border_radius=8&layout=compact" alt="Kishan Singh Top Languages" height="175" />
+</div>
+
+---
+
 ### 🎮 The Human Side
 
 I'm not just a code machine. When the IDE closes, here is who I am:

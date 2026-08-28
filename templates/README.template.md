@@ -49,6 +49,24 @@
 <div align="center">
   <img src="assets/bento.svg" alt="Engineering Showcase & Performance" width="100%" />
 </div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username={{ github_username }}&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="{{ display_name }} GitHub Trophies" width="100%" />
+</div>
+
+---
+
+### 📊 GitHub Stats & Metrics
+
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username={{ github_username }}&show_icons=true&theme=github_dark&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" alt="{{ display_name }} GitHub Stats" height="175" />
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username={{ github_username }}&theme=github_dark&hide_border=false&border_radius=8&layout=compact" alt="{{ display_name }} Top Languages" height="175" />
+</div>
 {{ human_side_section }}
 ---
 
